@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+### I'm Liz and I'm a data science student. I'm also a crafty nerd! I love sci-fi and knitting.
 
 <!--
 **lizknuty/lizknuty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
